@@ -1,0 +1,6 @@
+{
+  "jcr:primaryType":"nt:unstructured",
+  "jcr:title":"Sample content 1",
+  "sling:resourceType":"apps/custom",
+  "property":"sample"
+}
